@@ -16,7 +16,7 @@ export const personalInfo = {
   },
   summary:
     "CS grad student at NYU and former SDE2 at Optum (UnitedHealth Group). I build scalable systems and intelligent AI products. 5x hackathon winner shipping full-stack systems that hold up in production.",
-  resumeUrl: "/Riddhi_Raina_Resume.pdf",
+  resumeUrl: "/Riddhi_Raina_Prasad_Full_Stack_SDE_Resume.pdf",
 };
 
 export const socialLinks = {
@@ -35,7 +35,7 @@ export const heroContent = {
     text: "Contact Me",
     href: "mailto:rrp4822@nyu.edu?subject=Hiring Inquiry – Portfolio&body=Hello Riddhi,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Riddhi_Raina_Resume.pdf" },
+  ctaResume: { text: "Download Resume", href: "/Riddhi_Raina_Prasad_Full_Stack_SDE_Resume.pdf" },
 };
 
 export const aboutContent = {
